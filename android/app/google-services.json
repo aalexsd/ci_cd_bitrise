@@ -7,25 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:953968862880:android:e5e016b95b32d361aa4bc5",
-        "android_client_info": {
-          "package_name": "com.alexduarte.cicdbitrise"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAXZ1ugav3U3BR7YJgJgZUXI8AVMM1wc_4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:953968862880:android:bdc3b23a7bff1ed0aa4bc5",
         "android_client_info": {
           "package_name": "com.alexduarte.teste"

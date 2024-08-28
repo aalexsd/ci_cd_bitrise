@@ -1,4 +1,4 @@
-package com.example.flutter_ci_cd_bitrise
+package com.alexduarte.teste
 
 import io.flutter.embedding.android.FlutterActivity
 
